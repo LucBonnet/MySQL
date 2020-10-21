@@ -20,5 +20,7 @@
 -- Uma subclasse de comandos DML, a DCL (Data Control Language), dispõe
 -- de comandos de controle como Grant e Revoke.
 
-
+-- DDL: Definir como os dados serão armazenados, manipulando a estrutura do banco de dados.
+-- DML: Manipular os dados de dentro das tabelas do banco de dados.
+-- DCL: Controlar o acesso dos usuários ao banco de dados.
 
